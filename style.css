@@ -1,6 +1,6 @@
 header {
-    background-color: cyan;(194, 96, 240)
-    color: ;
+    background-color: rgb(59, 102, 102);
+    color: black;
 }
 
 body {
@@ -9,6 +9,6 @@ body {
 }
 
 footer {
-    background-color: aqua;
+    background-color: rgb(49, 83, 83);
     color: black;
 }
