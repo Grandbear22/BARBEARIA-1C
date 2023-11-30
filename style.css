@@ -12,3 +12,9 @@ footer {
     background-color: rgb(49, 83, 83);
     color: black;
 }
+
+.imagem-2 {
+    width: 40%;
+    align-items: center;
+    margin-left: 200px;
+}
